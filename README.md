@@ -6,7 +6,7 @@ Striving to maintain the striking balance between `it's NOT working... Why?` vs 
 - 😄 Pronouns: He/him
 - ⭐ Read Me: [Saath Online](http://saathonline.blogspot.com/)
 - 📫 Reach me : [SathvikPN on LinkedIn](http://www.linkedin.com/in/sathvik-p-n)
-- ⚡ Fun fact : I ❤ Rain
+- ⚡ Finally : I ❤ Rain
 
 
 <!---
