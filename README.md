@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sathvik PN</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A Software Engineer</h3>
 
-- 💖 I’m interested in Software Development
-- 🌱 I’m currently learning More Python, DSA
-- 💞️ I’m looking to collaborate on python based projects.
+Welcome to my profile page.
+
+- 💖 I’m interested in utility tools development.
+- 🌱 I’m currently learning C/C++ programming languages.
+- 💞️ I’m looking to collaborate on projects starting from scratch.
 - 😄 Pronouns: He/him
 - ⭐ Read Me: [Saath Online](http://saathonline.blogspot.com/)
 - 📫 Reach me : [SathvikPN on LinkedIn](http://www.linkedin.com/in/sathvik-p-n)
