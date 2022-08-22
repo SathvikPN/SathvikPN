@@ -7,8 +7,6 @@ Welcome to my profile page.
 - 🌱 I’m currently learning C/C++ programming languages.
 - 💞️ I’m looking to collaborate on projects starting from scratch.
 - 😄 Pronouns: He/him
-- ⭐ Read Me: [Saath Online](http://saathonline.blogspot.com/)
-- 📫 Reach me : [SathvikPN on LinkedIn](http://www.linkedin.com/in/sathvik-p-n)
 - ⚡ Finally : I ❤ Rain
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sathvikpn&show_icons=true&locale=en" alt="sathvikpn" /></p>
