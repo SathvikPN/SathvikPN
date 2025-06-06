@@ -3,11 +3,12 @@
 
 Welcome to my profile page.
 
-- 💖 I’m interested in utility tools development.
-- 🌱 I’m currently using Go programming language.
-- 💞️ I’m looking to collaborate on projects starting from scratch.
-- 😄 Pronouns: He/him
-- ⚡ Finally : I ❤ Rain
+- 💖 I’m currently learning about AI.
+- 🌱 I’m currently using Python(again) as part of learning AI.
+- 💞️ I’m looking for working opportunities in domain of applied AI products.
+- ⚡ Finally : I ❤ Rainy days.
+
+building-breaking-fixing-improving softwares and often thyself.
 <!---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sathvikpn&show_icons=true&locale=en" alt="sathvikpn" /></p>
 
