@@ -1,14 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sathvik PN</h1>
-<h3 align="center">A Software Engineer from India</h3>
+Sathvik is a software engineer who likes to write.
 
-Welcome to my profile page.
-
-- 💖 I’m currently learning about AI.
-- 🌱 I’m currently using Python(again) as part of learning AI.
-- 💞️ I’m looking for working opportunities in domain of applied AI products.
-- ⚡ Finally : I ❤ Rainy days.
-
-building-breaking-fixing-improving softwares and often thyself.
 <!---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sathvikpn&show_icons=true&locale=en" alt="sathvikpn" /></p>
 
